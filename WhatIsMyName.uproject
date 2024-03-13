@@ -12,7 +12,11 @@
 			]
 		},
 		{
+<<<<<<< HEAD
 			"Name": "AnimationWarping",
+=======
+			"Name": "MotionWarping",
+>>>>>>> 153889460b70511e8fb8da6681e1db1513f19199
 			"Enabled": true
 		}
 	]
